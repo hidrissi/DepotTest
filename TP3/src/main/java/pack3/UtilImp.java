@@ -111,6 +111,10 @@ public class UtilImp implements Util{
 		System.out.println("le message est : " + m);
 	}
 	
+	
+	public void zero () {
+		System.out.println("the output is zero = " + 0);
+	}
 		
 }
 
