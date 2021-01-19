@@ -102,7 +102,9 @@ public class UtilImp implements Util{
 	}
 	
 	
-	
+	public void msg(String m) {
+		System.out.println("le message est : " + m);
+	}
 	
 		
 }
