@@ -115,6 +115,10 @@ public class UtilImp implements Util{
 	public void zero () {
 		System.out.println("the output is zero = " + 0);
 	}
+	
+	public void hello () {
+		System.out.println(" Say Hellooo");
+	}
 		
 }
 
