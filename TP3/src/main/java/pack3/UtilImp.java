@@ -101,11 +101,24 @@ public class UtilImp implements Util{
 		return x++;
 	}
 	
+	//// added in BR1
+	public int decrement() {
+		return x--;
+	}
+	
 	
 	public void msg(String m) {
 		System.out.println("le message est : " + m);
 	}
 	
+	
+	public void zero () {
+		System.out.println("the output is zero = " + 0);
+	}
+	
+	public void hello () {
+		System.out.println(" Say Hellooo");
+	}
 		
 }
 
