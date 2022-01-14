@@ -3,4 +3,8 @@
   <groupId>ORG</groupId>
   <artifactId>TP3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  <sonar.organization>hidrissi</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
